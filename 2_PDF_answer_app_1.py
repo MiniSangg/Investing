@@ -1,6 +1,3 @@
-!pip install PyPDF2
-!pip install googletrans
-
 
 # 기본 정보 입력
 import streamlit as st
